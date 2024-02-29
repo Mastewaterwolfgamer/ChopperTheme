@@ -1,4 +1,4 @@
 ## Chopper Theme For Enmity ##
 
 I am not a racoon dog
-![ChopperTheme](https://discord.com/channels/950850315601711176/950979289531162666/1212900117737246760)
+![ChopperTheme](`https://raw.githubusercontent.com/Mastewaterwolfgamer/ChopperTheme/main/IMG_1315.png`)
