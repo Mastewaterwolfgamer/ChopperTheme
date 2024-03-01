@@ -17,10 +17,10 @@
     ],
     "HEADER_SECONDARY": [
       "#9b0000"
-    ],
-    "TEXT_NORMAL": [
-      "#CB595D"
-    ],
+],
+        "TEXT_NORMAL": [
+            "#87CEEB"
+        ],
     "TEXT_MUTED": [
       "#cd5c5c"
     ],
